@@ -1,3 +1,5 @@
+#SCT211-0067/2022
+#LEVI MUTUGI MUTHARIMI
 def sum(num1, num2):
     return num1 + num2
 
